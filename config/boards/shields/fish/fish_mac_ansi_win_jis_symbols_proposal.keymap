@@ -146,8 +146,8 @@
         // 参考: keycode_japanese.h
         layer_win_navi {
             bindings = <
-                        &kp RBKT    &kp LS(N2)  &kp NUHS    &kp AMPS            &kp C_VOL_UP &kp ESC    &kp UP      &kp CAPS
-&kp LBKT    &kp HASH    &mt LGUI LPAR &mt LALT LS(N7) &mt LSHFT RPAR &kp LS(INT3) &kp C_VOL_DN &kp LEFT   &kp DOWN    &kp RIGHT   &kp C_BRI_UP &kp PSCRN
+                        &kp RBKT    &kp LS(N2)  &kp NUHS    &kp LS(N6)          &kp C_VOL_UP &kp ESC    &kp UP      &kp CAPS
+&kp LBKT    &kp HASH    &mt LGUI LS(N8) &mt LALT LS(N7) &mt LSHFT LS(N9) &kp LS(INT3) &kp C_VOL_DN &kp LEFT   &kp DOWN    &kp RIGHT   &kp C_BRI_UP &kp PSCRN
             &kp INT1    &kp LS(RBKT) &kp LS(LBKT) &kp LS(NUHS)                                &kp C_PREV  &kp C_PP    &kp C_NEXT  &kp C_BRI_DN
                                                 &lt 6 BSPC  &trans              &trans      &none
             >;
